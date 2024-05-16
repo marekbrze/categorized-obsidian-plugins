@@ -1,6 +1,6 @@
 # Categorized Obsidian Plugins
 
-Welcome to this unofficial directory of Obsidian Extensions! This repository aims to simplify the discovery of new plugins and themes, enhancing your experience with the powerful knowledge management tool that Obsidian is.
+Welcome to this unofficial directory of Obsidian Plugins! This repository aims to simplify the discovery of new plugins and themes, enhancing your experience with the powerful knowledge management tool that Obsidian is.
 
 ## 📘 About This Repository
 This project organizes plugins and themes from the official [Obsidian Releases](https://github.com/obsidianmd/obsidian-releases) repository into categories, making it easier for users to find tools that match their needs. Please note that all descriptions and names of the plugins and themes are sourced directly from the official repository.
