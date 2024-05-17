@@ -1249,8 +1249,6 @@ I hope this repository helps you make the most out of Obsidian. Explore, enjoy, 
 
 - [Readwise Official](https://github.com/readwiseio/obsidian-readwise) - Official Readwise integration.
 
-- [Reason](https://github.com/jshph/obsidian-reason) - REASON: Retrieve, Extract, And Synthesize Obsidian Notes
-
 - [Regex Pipeline](https://github.com/No3371/obsidian-regex-pipeline) - Set up custom regex rules to automatically format notes.
 
 - [Remove Empty Folders](https://github.com/fnya/remove-empty-folders) - Easily remove empty folders.
@@ -3027,6 +3025,8 @@ I hope this repository helps you make the most out of Obsidian. Explore, enjoy, 
 - [Douban](https://github.com/Wanxp/obsidian-douban) - Import movies/books/musics/notes/games info data from Douban.
 
 - [Enhanced Annotations](https://github.com/ycnmhd/obsidian-enhanced-annotations) - Add a sidebar view for comments and highlights.
+
+- [Enzyme](https://github.com/jshph/obsidian-enzyme) - Digest your thoughts, powered by Dataview and AI.
 
 - [Extract PDF Annotations](https://github.com/munach/obsidian-extract-pdf-annotations) - Extract PDF annotations (notes and highlights) and sort them by topic.
 
